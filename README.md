@@ -1,4 +1,4 @@
-# Kohana PHP Couchbase Session Adapter
+# Kohana Couchbase Session Adapter
  A session adapter for kohana framework which stores sessions in couchbase.
 
 #Steps
